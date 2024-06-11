@@ -13,6 +13,7 @@
 body {
     background: url("../imgs/background.png");
     color: #f2f2f2;
+    background-repeat: no-repeat;
 }
 
 .container {
